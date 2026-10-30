@@ -1,0 +1,11 @@
+out/
+build/
+*.class
+.idea/
+.vscode/
+*.iml
+.DS_Store
+config.properties
+*.jar
+*.backup
+*.bak
